@@ -26,6 +26,10 @@
 
 /*
   Add written explanation of your solution here
+  write a funtion contain a target and a array
+  \initialize an empty object
+  use for if to see if our set meets the coditions set aside.
+
 */
 
 // You can run `node index.js` to view these console logs
